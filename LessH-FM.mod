@@ -1,3 +1,3 @@
-name = "Historical Flavour Mod v1.27I"
-path = "mod/HFM"
-user_dir = "HFM"
+name = "Less Historical Flavour Mod v1.0"
+path = "mod/LessH-FM"
+user_dir = "LessH-FM"

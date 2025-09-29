@@ -1,8 +1,8 @@
-# Historical Flavour Mod
-Current Version: 1.27F Beta
-How to download:
-1. Click this link: https://github.com/SighPie/HFM/archive/Development.zip
-3. Unzip "HFM-Development.zip"
-4. Extract "HFM" Folder & "HFM.mod" into "Steam\steamapps\steamapps\common\Victoria 2\mod"
-5. Activate HFM in your Victoria 2 Launcher
-6. DO NOT ACTIVATE HPM, HFM IS MEANT TO BE RUN AS STANDALONE
+# Less Historical Flavour Mod
+This is a fork of HFM where I want to add some flavor to some countries (namely Babylon, Byzanthium and Venice).
+Current Version: 0
+How to download and install:
+1. Click the green "Code" button on top
+3. Click on "Downlaod ZIP" (I'll try to put on main only working commits)
+4. Extract the zip file, copy/move "LessH-FM" Folder & "LessH-FM.mod" into "Steam\steamapps\steamapps\common\Victoria 2\mod" or into your "mod" folder in the installation folder of Victoria 2, if you didn't get it from Steam
+5. Activate LessH-FM in your Victoria 2 Launcher
